@@ -72,6 +72,32 @@ h1, h2, h3, h4, h5 {
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
+.text-block-holder {
+    text-align: center;
+    width: 100%;
+    margin: 30px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-text-block {
+    width: 438px;
+}
+
+
+.small-text-block {
+    width: 292px;
+    height: 100px;
+    margin: 10px;
+}
+
+
+.middle-img {
+    display: block;
+    margin: 0px auto;
+}
+
 
 nav {
     width: 876px;
@@ -109,42 +135,15 @@ button {
     align-self: flex-start;
 }
 
-hr {
-    width: 876px;
-    color: black;
+.cross-line {
+    border: 1px solid black;
 }
 
-.text-block-holder {
-    text-align: center;
-    width: 100%;
-    margin: 30px 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 h2 {
     font-size: 15px;
 }
 
-.big-text-block {
-    width: 438px;
-    text-align: left;
-}
-
-
-.small-text-block {
-    width: 292px;
-    height: 100px;
-    text-align: left;
-    margin: 10px;
-}
-
-
-.middle-img {
-    display: block;
-    margin: 0px auto;
-}
 
 
 footer {
