@@ -127,31 +127,11 @@ h2 {
     font-size: 15px;
 }
 
-.huge-text-block {
-    width: 876px;
-    text-align: left;
-}
-
 .big-text-block {
     width: 438px;
     text-align: left;
 }
 
-.enclosed-big-text-block {
-    width: 418px;
-    height: 200px;
-    text-align: left;
-    margin: 10px;
-    padding: 20px;
-    background: whitesmoke;
-    border: 2px solid black;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    align-content: flex-start;
-
-}
 
 .small-text-block {
     width: 292px;
@@ -166,32 +146,6 @@ h2 {
     margin: 0px auto;
 }
 
-.bottom {
-    text-align: center;
-    width: 100%;
-}
-
-.contact {
-    text-align: left;
-}
-
-.services-facts {
-    width: 100%;
-    text-align: left;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: flex-start;
-}
-
-#services-facts-left {
-    flex-direction: column;
-}
-
-ul {
-    list-style-type: square;
-    margin-left: 20px;
-}
 
 footer {
     text-align: center;
