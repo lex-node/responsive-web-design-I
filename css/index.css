@@ -75,23 +75,26 @@ h1, h2, h3, h4, h5 {
 /*desktop*/
 
 
-.text-block-holder, .nav-holder {
+.text-block-holder, .nav-holder, header {
     text-align: center;
     width: 100%;
-    margin: 30px 10px;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-right: 10px;
+    margin-left: 40px;
 }
 
+
 .big-text-block {
-    width: 24%;
+    width: 418px;
+    margin: 10px;
     text-align: left;
 }
 
 
 .small-text-block {
-    width: 15%;
+    width: 272px;
     margin: 10px;
     text-align: left;
 }
@@ -105,9 +108,11 @@ h1, h2, h3, h4, h5 {
 
 
 nav {
-    width: 48%;
+    width: 750px;
     display: flex;
     justify-content: space-between;
+    margin-right: 10px;
+    margin-left: 30px;
 }
 
 a, .logo {
@@ -116,13 +121,6 @@ a, .logo {
 }
 
 
-header {
-    width: 100%;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 #header-left {
     flex-direction: column;
@@ -151,7 +149,7 @@ button {
 
 .cross-line {
     border: 1px solid black;
-    width: 48%
+    width: 876px;
 }
 
 
@@ -171,6 +169,7 @@ footer {
         display: none;
     }
 
+
     .nav-holder {
         text-align: center;
         width: 100%;
@@ -179,6 +178,10 @@ footer {
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
+    }
+
+    nav {
+        width: 100%;
     }
 
     .middle-img {
@@ -192,7 +195,6 @@ footer {
 
     .small-text-block {
         width: 33%;
-        margin: 10px;
         text-align: left;
     }
 
