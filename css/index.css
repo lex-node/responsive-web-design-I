@@ -185,6 +185,7 @@ footer {
 
 }
 
+/* Mobile */
 @media( max-width: 500px ) {
     #code-snippet {
         display: none;
@@ -198,6 +199,11 @@ footer {
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
+    }
+
+    nav {
+        flex-direction: column;
+
     }
 
     .big-text-block {
