@@ -140,6 +140,12 @@ button {
     align-self: flex-start;
 }
 
+.nav-line {
+    display: none;
+    border: 1px solid black;
+    width: 48%
+}
+
 .cross-line {
     border: 1px solid black;
     width: 48%
@@ -215,6 +221,12 @@ footer {
         width: 33%;
         margin: 10px;
         text-align: left;
+    }
+
+    .nav-line {
+        display: block;
+        border: 1px solid black;
+        width: 48%
     }
 
 }
