@@ -134,10 +134,13 @@ h1 {
 
 
 button {
-    width: 50%;
+    font-size: 18px;
+    padding: 5px 37px 5px 37px;
+    margin: 0 auto;
     border: 2px solid black;
     text-decoration: none;
     align-self: flex-start;
+    background-color: transparent;
 }
 
 .nav-line {
