@@ -178,6 +178,10 @@ footer {
         justify-content: center;
     }
 
+    .middle-img {
+        width: 100%;
+    }
+
     .big-text-block {
         width: 50%;
         text-align: left;
