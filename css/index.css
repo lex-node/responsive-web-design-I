@@ -222,12 +222,12 @@ footer {
     }
 
     .big-text-block {
-        width: 50%;
+        width: 100%;
         text-align: left;
     }
 
     .small-text-block {
-        width: 33%;
+        width: 100%;
         margin: 10px;
         text-align: left;
     }
