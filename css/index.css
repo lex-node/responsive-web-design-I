@@ -82,13 +82,13 @@ h1, h2, h3, h4, h5 {
 }
 
 .big-text-block {
-    width: 16%;
+    width: 24%;
     text-align: left;
 }
 
 
 .small-text-block {
-    width: 10%;
+    width: 15%;
     height: 100px;
     margin: 10px;
     text-align: left;
@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5 {
 
 
 nav {
-    width: 32%;
+    width: 48%;
     display: flex;
     justify-content: space-between;
 }
@@ -139,7 +139,7 @@ button {
 
 .cross-line {
     border: 1px solid black;
-    width: 32%
+    width: 48%
 }
 
 
