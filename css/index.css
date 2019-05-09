@@ -217,6 +217,10 @@ footer {
 
     }
 
+    .text-block-holder{
+        flex-direction: column;
+    }
+
     .big-text-block {
         width: 50%;
         text-align: left;
