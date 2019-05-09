@@ -193,6 +193,11 @@ footer {
         text-align: left;
     }
 
+    .cross-line {
+        border: 1px solid black;
+        width: 100%
+    }
+
 }
 
 /* Mobile */
@@ -214,7 +219,6 @@ footer {
     nav {
         flex-direction: column;
         width: 100%
-
     }
 
     .text-block-holder{

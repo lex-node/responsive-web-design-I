@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -39,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="225" column="24" lean-forward="true" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="24" />
+            <state relative-caret-position="365">
+              <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
             </state>
           </provider>
         </entry>
@@ -154,12 +154,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557292094956</updated>
       <workItem from="1557292096196" duration="10462000" />
-      <workItem from="1557365167404" duration="1751000" />
+      <workItem from="1557365167404" duration="1922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12213000" />
+    <option name="totallyTimeSpent" value="12384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="118" y="114" width="1125" height="704" extended-state="0" />
@@ -201,23 +201,23 @@
     <entry file="file://$PROJECT_DIR$/design-files/desktop-view.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-files/tablet-view.png">
+    <entry file="file://$PROJECT_DIR$/design-files/mobile-view.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-files/mobile-view.png">
+    <entry file="file://$PROJECT_DIR$/design-files/tablet-view.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="225" column="24" lean-forward="true" selection-start-line="225" selection-start-column="24" selection-end-line="225" selection-end-column="24" />
+        <state relative-caret-position="365">
+          <caret line="199" lean-forward="true" selection-start-line="199" selection-end-line="199" />
         </state>
       </provider>
     </entry>
