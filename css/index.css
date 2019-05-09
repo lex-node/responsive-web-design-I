@@ -99,6 +99,7 @@ h1, h2, h3, h4, h5 {
 
 .middle-img {
     display: block;
+    width: 100%
     margin: 0px auto;
 }
 
@@ -170,6 +171,45 @@ footer {
         align-items: center;
         justify-content: center;
     }
+
+    .big-text-block {
+        width: 50%;
+        text-align: left;
+    }
+
+    .small-text-block {
+        width: 33%;
+        margin: 10px;
+        text-align: left;
+    }
+
 }
 
+@media( max-width: 500px ) {
+    #code-snippet {
+        display: none;
+    }
+
+    .nav-holder {
+        text-align: center;
+        width: 100%;
+        margin: 30px 10px;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .big-text-block {
+        width: 50%;
+        text-align: left;
+    }
+
+    .small-text-block {
+        width: 33%;
+        margin: 10px;
+        text-align: left;
+    }
+
+}
 
