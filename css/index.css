@@ -238,7 +238,7 @@ footer {
 
     .nav-line {
         display: block;
-        border: 1px solid black;
+        border: .5px solid gray;
         width: 100%
     }
 
